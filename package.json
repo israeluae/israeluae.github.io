@@ -1,12 +1,12 @@
 {
-  "name": "confer-conference-event-html-template",
+  "name": "iu-conference",
   "version": "1.0.0",
-  "description": "Confer - Conference Event HTML Template",
+  "description": "Israel UAE Conference",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "colorlib",
+  "author": "Conference",
   "license": "CC-BY-3.0",
   "devDependencies": {
     "gulp": "^3.9.1",
